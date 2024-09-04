@@ -9,7 +9,7 @@ export const Actions = () =>{
 
     const onClick = () =>{
         startTransition(() => {
-            onFollow("abc");
+            onFollow("123");
         });
     };
 
